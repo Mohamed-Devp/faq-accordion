@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My solution](https://your-solution-url.com)
-- Live Site URL: [Live demo](https://your-live-site-url.com)
+- Solution URL: [My solution](https://www.frontendmentor.io/solutions/responsive-faq-accordion-jhoWtEAfAT)
+- Live Site URL: [Live demo](https://mohamed-devp.github.io/faq-accordion/)
 
 ## My process
 
